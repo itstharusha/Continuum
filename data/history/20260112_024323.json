@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-01-12T02:43:23.045142+00:00",
+  "ingestion_result": {
+    "suppliers": [
+      {
+        "supplier_id": "S001",
+        "name": "Acme Metals",
+        "country": "China",
+        "material": "Steel",
+        "capacity_tons_per_month": 5000,
+        "risk_country_score": 0.75
+      },
+      {
+        "supplier_id": "S002",
+        "name": "Nordic Paper",
+        "country": "Sweden",
+        "material": "Paper pulp",
+        "capacity_tons_per_month": 3200,
+        "risk_country_score": 0.15
+      },
+      {
+        "supplier_id": "S003",
+        "name": "Taiwan Semi",
+        "country": "Taiwan",
+        "material": "Semiconductors",
+        "capacity_tons_per_month": 800,
+        "risk_country_score": 0.65
+      },
+      {
+        "supplier_id": "S004",
+        "name": "Brazil Nut Co.",
+        "country": "Brazil",
+        "material": "Nuts & oils",
+        "capacity_tons_per_month": 1500,
+        "risk_country_score": 0.45
+      },
+      {
+        "supplier_id": "S005",
+        "name": "German Precision",
+        "country": "Germany",
+        "material": "Precision bearings",
+        "capacity_tons_per_month": 900,
+        "risk_country_score": 0.2
+      }
+    ],
+    "news_items": [
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "dailysentinel",
+        "url": "https://www.dailysentinel.com/anpa/us/ap-trending-summarybrief-at-9-42-a-m-est/article_228ec353-6353-59d4-9ab4-6ab59e6e8aad.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "chronicleonline",
+        "url": "https://www.chronicleonline.com/news/national/ap-trending-summarybrief-at-9-42-a-m-est/article_cf243a46-9238-5c70-92b6-782aaab7339c.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "milescitystar",
+        "url": "https://www.milescitystar.com/ap_news/national/ap-trending-summarybrief-at-9-42-a-m-est/article_77fdfb84-51f5-5bef-a76b-2c1363b6478c.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "woonsocketcall",
+        "url": "https://www.woonsocketcall.com/news/national_and_world_news/ap-trending-summarybrief-at-9-42-a-m-est/article_d3c2696e-fe10-5415-a6fb-47824b825991.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "nvdaily",
+        "url": "https://www.nvdaily.com/associated_press_national/ap-trending-summarybrief-at-9-42-a-m-est/article_cd708894-3779-5879-bcf3-9315c8d47173.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "citizentribune",
+        "url": "https://www.citizentribune.com/news/national/ap-trending-summarybrief-at-9-42-a-m-est/article_e4424cee-c473-58a4-95d6-73bbee416b48.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "timesargus",
+        "url": "https://www.timesargus.com/news/national/ap-trending-summarybrief-at-9-42-a-m-est/article_988d9768-094a-53da-8fa4-7f2e5ef42c70.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "beloitdailynews",
+        "url": "https://www.beloitdailynews.com/news/national-news/ap-trending-summarybrief-at-9-42-a-m-est/article_b0c60389-1a02-58f4-9f2d-dda619753eff.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "lufkindailynews",
+        "url": "https://lufkindailynews.com/anpa/us/ap-trending-summarybrief-at-9-42-a-m-est/article_3c149ee4-ff72-5e20-9bf5-5049af80bc56.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "mankatofreepress",
+        "url": "https://www.mankatofreepress.com/news/state_national_news/ap-trending-summarybrief-at-9-42-a-m-est/article_0f138fe8-505c-5f6c-872c-16fc73fcbb5d.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      }
+    ],
+    "ingestion_timestamp": "2026-01-12T02:43:23.043132",
+    "sources_checked": 5,
+    "suppliers_count": 5,
+    "news_count": 10
+  },
+  "graph_result": {
+    "graph_built": true,
+    "node_count": 8,
+    "edge_count": 7,
+    "supplier_count": 5,
+    "critical_nodes": [
+      "S001",
+      "F001",
+      "W001"
+    ],
+    "graph_stats": {
+      "valid": true,
+      "node_count": 8,
+      "edge_count": 7,
+      "supplier_count": 5,
+      "has_cycles": false,
+      "critical_nodes": [
+        "S001",
+        "F001",
+        "W001"
+      ],
+      "avg_degree": 1.75
+    },
+    "timestamp": "2026-01-12T02:43:23.044758+00:00"
+  },
+  "risk_result": {
+    "risks_detected": [],
+    "max_severity": 0.0,
+    "total_risks_found": 0,
+    "analysis_timestamp": "2026-01-12T02:43:23.044928+00:00",
+    "news_analyzed": 10
+  },
+  "simulation_result": {
+    "scenarios": [],
+    "worst_case_delay_days": 0
+  },
+  "decision_result": {
+    "recommended_actions": [],
+    "overall_confidence": 0.0,
+    "decision_count": 0,
+    "decision_timestamp": "2026-01-12T02:43:23.045049+00:00",
+    "top_recommendation": "do_nothing"
+  }
+}

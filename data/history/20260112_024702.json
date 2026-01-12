@@ -1,0 +1,241 @@
+{
+  "timestamp": "2026-01-12T02:47:02.730243+00:00",
+  "ingestion_result": {
+    "suppliers": [
+      {
+        "supplier_id": "S001",
+        "name": "Acme Metals",
+        "country": "China",
+        "material": "Steel",
+        "capacity_tons_per_month": 5000,
+        "risk_country_score": 0.75
+      },
+      {
+        "supplier_id": "S002",
+        "name": "Nordic Paper",
+        "country": "Sweden",
+        "material": "Paper pulp",
+        "capacity_tons_per_month": 3200,
+        "risk_country_score": 0.15
+      },
+      {
+        "supplier_id": "S003",
+        "name": "Taiwan Semi",
+        "country": "Taiwan",
+        "material": "Semiconductors",
+        "capacity_tons_per_month": 800,
+        "risk_country_score": 0.65
+      },
+      {
+        "supplier_id": "S004",
+        "name": "Brazil Nut Co.",
+        "country": "Brazil",
+        "material": "Nuts & oils",
+        "capacity_tons_per_month": 1500,
+        "risk_country_score": 0.45
+      },
+      {
+        "supplier_id": "S005",
+        "name": "German Precision",
+        "country": "Germany",
+        "material": "Precision bearings",
+        "capacity_tons_per_month": 900,
+        "risk_country_score": 0.2
+      }
+    ],
+    "news_items": [
+      {
+        "title": "Nvidia CEO sends strong message on Taiwan Semiconductor",
+        "published": "2026-01-11 14:47:00",
+        "source": "thestreet",
+        "url": "https://www.thestreet.com/technology/nvidia-ceo-sends-strong-message-on-taiwan-semiconductor",
+        "summary": "What Jensen Huang said touches the heart of the AI buildout.",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "Cencora, Inc. $COR Stock Holdings Increased by Swmg LLC",
+        "published": "2026-01-11 14:46:44",
+        "source": "watchlistnews",
+        "url": "https://www.watchlistnews.com/cencora-inc-cor-stock-holdings-increased-by-swmg-llc/10954928.html",
+        "summary": "Swmg LLC raised its holdings in shares of Cencora, Inc. (NYSE:COR \u2013 Free Report) by 34.5% in the third quarter, HoldingsChannel reports. The institutional investor owned 5,937 shares of the company\u2019s stock after purchasing an additional 1,523 shares during the quarter. Cencora accounts for about 0.6% of Swmg LLC\u2019s portfolio, making the stock its 25th [...]",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "Cencora, Inc. $COR Stock Holdings Increased by Swmg LLC",
+        "published": "2026-01-11 14:46:42",
+        "source": "tickerreport",
+        "url": "https://www.tickerreport.com/banking-finance/13313422/cencora-inc-cor-stock-holdings-increased-by-swmg-llc.html",
+        "summary": "Swmg LLC grew its position in shares of Cencora, Inc. (NYSE:COR \u2013 Free Report) by 34.5% during the third quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The fund owned 5,937 shares of the company\u2019s stock after buying an additional 1,523 shares during the period. Cencora [...]",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "How clean energy could save the world trillions",
+        "published": "2026-01-11 14:46:41",
+        "source": "indianexpress",
+        "url": "https://indianexpress.com/article/explained/explained-climate/clean-energy-trillions-savings-comparison-fossil-fuel-10467894/",
+        "summary": "As clean energy prices fall, a fast transition to renewable energy is the cheapest option on the table.",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "Terror gang faces demands from the Kinahan cartel over an unpaid drug debt",
+        "published": "2026-01-11 14:45:00",
+        "source": "belfasttelegraph",
+        "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/terror-gang-faces-demands-from-the-kinahan-cartel-over-an-unpaid-drug-debt/a1082042560.html",
+        "summary": "East Belfast UVF is facing demands from a drug gang linked to the Kinahan cartel over an unpaid debt, sources have claimed.",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "New York State Teachers Retirement System Increases Holdings in Prologis, Inc. $PLD",
+        "published": "2026-01-11 14:44:46",
+        "source": "themarketsdaily",
+        "url": "https://www.themarketsdaily.com/2026/01/11/new-york-state-teachers-retirement-system-increases-holdings-in-prologis-inc-pld.html",
+        "summary": "New York State Teachers Retirement System raised its stake in Prologis, Inc. (NYSE:PLD \u2013 Free Report) by 1.4% in the 3rd quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 705,466 shares of the real estate investment trust\u2019s stock after buying an additional 9,612 [...]",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "51st US state: Trump aims for western hemisphere dominance \u2014 Is Canada next?",
+        "published": "2026-01-11 14:44:20",
+        "source": "toi",
+        "url": "https://timesofindia.indiatimes.com/world/us/51st-us-state-trump-aims-for-western-hemisphere-dominance-is-canada-next/articleshow/126466614.cms",
+        "summary": "US President Donald Trump's actions in Venezuela and Greenland signal a clear intent to dominate the Western Hemisphere. This has sparked fears in Canada of potential annexation. Experts warn that Canada's vast resources and strategic location make it a target. The article urges Canadians to prepare for potential military coercion and a shift from partnership to a frontier of conquest.",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "UPSC Essentials | Daily subject-wise quiz : International Relations MCQs on Organisation of the Petroleum Exporting Countries, Operation Hawkeye Strike and more (Week 144)",
+        "published": "2026-01-11 14:43:27",
+        "source": "indianexpress",
+        "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-subject-wise-quiz-international-relations-week-144-10467884/",
+        "summary": "Daily UPSC Essentials quiz on International Relations: OPEC, Operation Hawkeye Strike and more (Week 144)",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "dailysentinel",
+        "url": "https://www.dailysentinel.com/anpa/us/ap-trending-summarybrief-at-9-42-a-m-est/article_228ec353-6353-59d4-9ab4-6ab59e6e8aad.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      },
+      {
+        "title": "AP Trending SummaryBrief at 9:42 a.m. EST",
+        "published": "2026-01-11 14:42:11",
+        "source": "chronicleonline",
+        "url": "https://www.chronicleonline.com/news/national/ap-trending-summarybrief-at-9-42-a-m-est/article_cf243a46-9238-5c70-92b6-782aaab7339c.html",
+        "summary": "Caleb Williams rallies Bears from 18 points down for 31-27 playoff win over rival Packers",
+        "relevance_score": 0.85
+      }
+    ],
+    "ingestion_timestamp": "2026-01-12T02:47:02.726201",
+    "sources_checked": 5,
+    "suppliers_count": 5,
+    "news_count": 10
+  },
+  "graph_result": {
+    "graph_built": true,
+    "node_count": 8,
+    "edge_count": 7,
+    "supplier_count": 5,
+    "critical_nodes": [
+      "S001",
+      "F001",
+      "W001"
+    ],
+    "graph_stats": {
+      "valid": true,
+      "node_count": 8,
+      "edge_count": 7,
+      "supplier_count": 5,
+      "has_cycles": false,
+      "critical_nodes": [
+        "S001",
+        "F001",
+        "W001"
+      ],
+      "avg_degree": 1.75
+    },
+    "timestamp": "2026-01-12T02:47:02.727718+00:00"
+  },
+  "risk_result": {
+    "risks_detected": [
+      {
+        "node_id": "S003",
+        "name": "Taiwan Semi",
+        "country": "Taiwan",
+        "material": "Semiconductors",
+        "risk_score": 1.0,
+        "risk_types": [
+          "general"
+        ],
+        "news_title": "Nvidia CEO sends strong message on Taiwan Semiconductor",
+        "news_summary": "What Jensen Huang said touches the heart of the AI buildout.",
+        "news_url": "https://www.thestreet.com/technology/nvidia-ceo-sends-strong-message-on-taiwan-semiconductor"
+      }
+    ],
+    "max_severity": 1.0,
+    "total_risks_found": 1,
+    "analysis_timestamp": "2026-01-12T02:47:02.728978+00:00",
+    "news_analyzed": 10
+  },
+  "simulation_result": {
+    "scenarios": [
+      {
+        "node_id": "S003",
+        "disruption_type": "node_failure",
+        "severity_used": 1.0,
+        "capacity_loss_pct": 80,
+        "estimated_delay_days": 0,
+        "affected_nodes_count": 1,
+        "service_level_impact_pct": 75.0,
+        "news_title": "Nvidia CEO sends strong message on Taiwan Semiconductor",
+        "simulated_at": "2026-01-12T02:47:02.729761+00:00"
+      }
+    ],
+    "worst_case_delay_days": 0,
+    "worst_case_affected_nodes": 1,
+    "number_of_simulations": 1,
+    "simulation_timestamp": "2026-01-12T02:47:02.729778+00:00"
+  },
+  "decision_result": {
+    "recommended_actions": [
+      {
+        "node_id": "S003",
+        "name": "Taiwan Semi",
+        "material": "Semiconductors",
+        "country": "Taiwan",
+        "risk_score": 1.0,
+        "delay_days": 0,
+        "service_impact_pct": 75.0,
+        "affected_nodes_count": 1,
+        "recommended_actions": [
+          {
+            "action": "expedite_shipment",
+            "description": "Expedite current shipments and negotiate priority delivery",
+            "urgency": 5,
+            "estimated_confidence": 1.0,
+            "lead_time_days": 0
+          },
+          {
+            "action": "activate_alternative_source",
+            "description": "Activate pre-qualified alternative supplier(s)",
+            "urgency": 4,
+            "estimated_confidence": 1.0,
+            "lead_time_days": 3
+          },
+          {
+            "action": "diversify_suppliers",
+            "description": "Initiate long-term supplier diversification project for this material/country",
+            "urgency": 2,
+            "estimated_confidence": 1.0,
+            "lead_time_days": 180
+          }
+        ],
+        "primary_action": "expedite_shipment",
+        "confidence": 1.0
+      }
+    ],
+    "overall_confidence": 1.0,
+    "decision_count": 1,
+    "decision_timestamp": "2026-01-12T02:47:02.730016+00:00",
+    "top_recommendation": "expedite_shipment"
+  }
+}
