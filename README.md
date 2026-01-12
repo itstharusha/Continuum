@@ -2,6 +2,15 @@
 
 A comprehensive, AI-powered supply chain risk monitoring and decision support system that leverages large language models, graph analysis, and advanced simulation to detect risks, analyze impacts, and recommend actionable mitigation strategies in real-time.
 
+## Demo
+<img width="1906" height="920" alt="image" src="https://github.com/user-attachments/assets/01aa3cf4-80a4-4d8b-add7-3e8bf6d014d7" />
+<img width="1906" height="927" alt="image" src="https://github.com/user-attachments/assets/8b8b7c1f-6410-45dd-aaa4-1c7baeb6520c" />
+<img width="1914" height="922" alt="image" src="https://github.com/user-attachments/assets/84bf38f2-a5e8-4981-8ea2-7533bbe37546" />
+<img width="1914" height="912" alt="image" src="https://github.com/user-attachments/assets/736114ef-c394-4a43-98ec-70416da61107" />
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/9fad11f7-4daf-41c3-b5e4-840702352c30" />
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
