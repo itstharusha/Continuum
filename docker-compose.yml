@@ -1,0 +1,57 @@
+version: '3.8'
+
+services:
+  continuum-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: continuum-dashboard
+    ports:
+      - "8501:8501"
+    environment:
+      STREAMLIT_SERVER_PORT: 8501
+      STREAMLIT_SERVER_ADDRESS: 0.0.0.0
+      STREAMLIT_SERVER_HEADLESS: 'true'
+      PYTHONUNBUFFERED: '1'
+    volumes:
+      # Persist history data
+      - ./data/history:/app/data/history
+      # Persist logs if applicable
+      - ./logs:/app/logs
+      # Optional: Mount data directory for real-time updates
+      - ./data/suppliers.csv:/app/data/suppliers.csv
+    networks:
+      - continuum-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
+
+  continuum-monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: continuum-monitor
+    command: python main.py
+    environment:
+      PYTHONUNBUFFERED: '1'
+    volumes:
+      # Persist history data from background monitor
+      - ./data/history:/app/data/history
+      - ./logs:/app/logs
+      - ./data/suppliers.csv:/app/data/suppliers.csv
+    networks:
+      - continuum-network
+    restart: unless-stopped
+    depends_on:
+      continuum-dashboard:
+        condition: service_healthy
+    profiles:
+      - background
+
+networks:
+  continuum-network:
+    driver: bridge
